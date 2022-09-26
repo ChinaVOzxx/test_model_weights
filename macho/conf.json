@@ -18,6 +18,7 @@
     "dropout": 0.1,
     "base": 1000,
     "lr": 0.001,
+    "use_leak": false,
     "cache": false,
     "exp_date": "18/03/2022 11:17:07"
 }
