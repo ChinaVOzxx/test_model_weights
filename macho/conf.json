@@ -19,5 +19,6 @@
     "base": 1000,
     "lr": 0.001,
     "cache": false,
+    "use_leak": false,
     "exp_date": "18/03/2022 11:17:07"
 }
